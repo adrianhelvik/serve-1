@@ -1,5 +1,5 @@
 {
-  "name": "serve",
+  "name": "serve-esm",
   "version": "6.4.1",
   "description": "Static file serving and directory listing",
   "scripts": {
@@ -16,7 +16,7 @@
   "repository": "zeit/serve",
   "main": "./lib/api.js",
   "bin": {
-    "serve": "./bin/serve.js"
+    "serve-esm": "./bin/serve.js"
   },
   "engines": {
     "node": ">=6.9.0"
