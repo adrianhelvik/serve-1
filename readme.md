@@ -37,7 +37,7 @@ A module must be imported like this:
 
 ```javascript
 // Import preact by using the module field in package.json
-import preact from '/ESM/preact'
+import { h, Component } from '/ESM/preact'
 ```
 
 There is also support for module.exports.
