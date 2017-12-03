@@ -21,7 +21,7 @@ several modules that I've found work fine.
 
 ## Non-working modules
 - React (uses require within the main file)
-- mobx-react (imports other files. Would work with this proposal)
+- mobx-react (imports other modules. Would work with this proposal)
 
 # serve-esm
 

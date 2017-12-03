@@ -1,6 +1,6 @@
 {
   "name": "serve-esm",
-  "version": "6.4.1",
+  "version": "1.0.0",
   "description": "Static file serving and directory listing",
   "scripts": {
     "precommit": "lint-staged",
